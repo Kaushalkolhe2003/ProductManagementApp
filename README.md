@@ -1,4 +1,4 @@
-# Product Management Application
+# Product Management App
 
 ## Table of Contents
 
