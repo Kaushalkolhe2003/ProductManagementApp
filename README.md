@@ -1,4 +1,4 @@
-Step 1: Create a GitHub Repository
+--Step 1: Create a GitHub Repository
 Log In to GitHub: Go to GitHub and log in to your account.
 
 Create a New Repository:
